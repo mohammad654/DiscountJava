@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "qfknew",
+    "lastName": "rrr",
+    "phone": "354",
+    "hasStreet": true,
+    "houseNumber": "45",
+    "id": 1,
+    "email": "333dsvew"
+  },
+  {
+    "firstName": "efw",
+    "lastName": "eeee",
+    "phone": "44",
+    "hasStreet": true,
+    "houseNumber": "444",
+    "id": 2,
+    "email": "eee"
+  }
+]
